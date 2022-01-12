@@ -10,3 +10,8 @@ commit 对修改的内容进行保存，每次commit有一个保存信息
 pull request 拉取一个请求，请求对main里面的代码进行修改，github会根据新创建的分支和main中的差异标注出增还是删
 Merge pull request，delete branch
 
+
+github与git
+github核心是git
+
+
